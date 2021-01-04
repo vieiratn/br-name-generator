@@ -1,4 +1,4 @@
-# Name Generator
+# Brazilian Name Generator
 
 A node package to generates any number of random native brazilian full names.
 

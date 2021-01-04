@@ -1,0 +1,25 @@
+{
+  "name": "br-name-generator",
+  "version": "1.0.0",
+  "description": "A node package to generates any number of random native brazilian full names.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vieiratn/br-name-generator.git"
+  },
+  "keywords": [
+    "brazilian",
+    "name",
+    "generator",
+    "random"
+  ],
+  "author": "Thiago Nascimento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vieiratn/br-name-generator/issues"
+  },
+  "homepage": "https://github.com/vieiratn/br-name-generator#readme"
+}
